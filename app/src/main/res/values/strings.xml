@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">HeadphonePlayer</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="lbl_play">Play</string>
+    <string name="lbl_pause">Pause</string>
+    <string name="lbl_fast_forward">Fast Forward</string>
+    <string name="lbl_fast_backward">Fast Backward</string>
+    <string name="txt_no_media">It seems there is no mp3 files in your music folder</string>
+    <string name="lbl_tracks">Tracks</string>
+    <string name="lbl_ok">Open app settings</string>
+    <string name="lbl_cancel">Cancel</string>
+    <string name="txt_permissions">"Permissions are turned off for playing mp3 files, please authorize theme "</string>
+    <string name="txt_error_app_settings">Error occurred while opening settings for this application</string>
+</resources>
