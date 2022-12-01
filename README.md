@@ -7,4 +7,5 @@ How to read/write data using SharedPreferences
 
 It's been a pleasure to share with you my knowledge
 
-![mp3 player](https://user-images.githubusercontent.com/104235442/204953531-b97ff382-a656-4198-87e6-4f69c866692b.jpg)
+
+![mp3_player-removebg-preview](https://user-images.githubusercontent.com/104235442/204953767-4149a6d9-1823-45d2-b7e6-5ec179cf6c60.png)
