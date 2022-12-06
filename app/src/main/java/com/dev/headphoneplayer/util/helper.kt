@@ -66,7 +66,7 @@ fun milliSecondsToTimeString(milliseconds: Int): String {
     var result = ""
     var secondsString = ""
     val hours = (milliseconds / (1000 * 60 * 60))
-    val minutes = (milliseconds % (1000 * 6 * 60)) / (1000 * 60)
+    val minutes = (milliseconds % (1000 * 60 * 60)) / (1000 * 60)
     val seconds = (milliseconds % (1000 * 60 * 60) % (1000 * 60) / 1000)
 
     if(hours >0){
